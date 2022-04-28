@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645033381 source:c:\users\ropht\documents\isc\blue ocean\unidad 3\miprimerravariable\main.c
+	<stdio.h>
+	<stdlib.h>
+

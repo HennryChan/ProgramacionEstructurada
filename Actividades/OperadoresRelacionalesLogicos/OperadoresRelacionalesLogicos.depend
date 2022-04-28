@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645051261 source:c:\users\ropht\documents\isc\blue ocean\unidad 3\operadoresrelacionaleslogicos\main.c
+	<stdio.h>
+	<stdlib.h>
+
